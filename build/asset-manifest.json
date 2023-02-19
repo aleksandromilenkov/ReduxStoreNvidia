@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NvidiaReduxCart/static/css/main.76681b31.chunk.css",
+    "main.js": "/NvidiaReduxCart/static/js/main.6a18b819.chunk.js",
+    "main.js.map": "/NvidiaReduxCart/static/js/main.6a18b819.chunk.js.map",
+    "runtime-main.js": "/NvidiaReduxCart/static/js/runtime-main.5287e338.js",
+    "runtime-main.js.map": "/NvidiaReduxCart/static/js/runtime-main.5287e338.js.map",
+    "static/js/2.7f9ca75f.chunk.js": "/NvidiaReduxCart/static/js/2.7f9ca75f.chunk.js",
+    "static/js/2.7f9ca75f.chunk.js.map": "/NvidiaReduxCart/static/js/2.7f9ca75f.chunk.js.map",
+    "index.html": "/NvidiaReduxCart/index.html",
+    "static/css/main.76681b31.chunk.css.map": "/NvidiaReduxCart/static/css/main.76681b31.chunk.css.map",
+    "static/js/2.7f9ca75f.chunk.js.LICENSE.txt": "/NvidiaReduxCart/static/js/2.7f9ca75f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5287e338.js",
+    "static/js/2.7f9ca75f.chunk.js",
+    "static/css/main.76681b31.chunk.css",
+    "static/js/main.6a18b819.chunk.js"
+  ]
+}
