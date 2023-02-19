@@ -22,7 +22,7 @@ function App() {
     }
     if (cart.changed) dispatch(sendCartData(cart));
   }, [cart, dispatch]);
-
+  console.log("first");
   return (
     <Layout>
       {notification && (
